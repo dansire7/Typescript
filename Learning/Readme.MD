@@ -67,7 +67,6 @@ console.log
 3. console.log(`Hello ${lastname}`) // This will concatenate the string and variable named "lastname".
 4. console.log(typeof lastname) // This will show type of variable named "lastname".
 
-
 Github
 1. download Github : desktop.github.com
 2. first sign in by : File > Options > Signin
